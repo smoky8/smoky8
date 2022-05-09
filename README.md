@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smoky8
-- 👀 I’m interested in c, golang, linux, k8s, docker
+- 👀 I’m interested in golang, rust, linux, k8s, docker
 - 🌱 I’m currently learning c, linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
